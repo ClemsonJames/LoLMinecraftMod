@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "  C",
+    " I ",
+    "F  "
+  ],
+
+  "key":
+  {
+    "C":
+    {
+      "item": "lolmod:ice_crystal"
+    },
+    "I":
+    {
+      "item": "minecraft:ice"
+    },
+    "F":
+    {
+      "item": "minecraft:feather"
+    }
+  },
+
+  "result":
+  {
+    "item": "lolmod:avarosas_arrow",
+    "count": 16
+  }
+}

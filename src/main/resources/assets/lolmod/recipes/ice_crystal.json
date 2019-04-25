@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    " I ",
+    "IDI",
+    " I "
+  ],
+
+  "key":
+  {
+    "I":
+    {
+      "item": "minecraft:ice"
+    },
+    "D":
+    {
+      "item": "minecraft:diamond"
+    }
+  },
+
+  "result":
+  {
+    "item": "lolmod:ice_crystal",
+    "count": 1
+  }
+}

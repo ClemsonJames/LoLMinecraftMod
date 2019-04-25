@@ -1,0 +1,6 @@
+{
+  "parent": "lolmod:item/avarosas_bow",
+  "textures": {
+    "layer0": "lolmod:items/ava_pulling_2"
+  }
+}

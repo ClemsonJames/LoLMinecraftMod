@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "SC ",
+    "S C",
+    "SC "
+  ],
+
+  "key":
+  {
+    "C":
+    {
+      "item": "lolmod:ice_crystal"
+    },
+    "S":
+    {
+      "item": "minecraft:string"
+    }
+  },
+
+  "result":
+  {
+    "item": "lolmod:avarosas_bow",
+    "count": 1
+  }
+}

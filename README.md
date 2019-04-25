@@ -5,8 +5,19 @@ The main idea of this mod is to add champion weapons or significant things about
 
 ## Current Items
 
-* Ashe's Bow - Avarosa's Bow
+* Avarosa's Bow - Ashe's Bow
+	* Ice Crystal - Used to make arrow and bow
+	* Avarosa's arrow - Special arrow for Avarosa's bow; applies slowness 2 for 2 seconds and 2% to apply slowness 100 for 4 secods
 
 
 ## Crafting Recipe
+
+Avarosa's Bow
+![](images/avaBow.png)
+
+Avarosa's Arrow
+![](images/avaArrow.png)
+
+Ice Crystal
+![](images/iceCrystal.png)
 

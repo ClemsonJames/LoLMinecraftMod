@@ -39,7 +39,7 @@ public class EntityAvaArrow extends EntityArrow
         super.arrowHit(living);
 
         Random rand = new Random();
-        int chance = rand.nextInt(2);
+        int chance = rand.nextInt(50);
         // 1/60 chance to get super slowness
         if (chance == 0)
         {

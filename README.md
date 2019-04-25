@@ -13,11 +13,11 @@ The main idea of this mod is to add champion weapons or significant things about
 ## Crafting Recipe
 
 Avarosa's Bow
-![](images/avaBow.png)
+![](images/avaBow.PNG)
 
 Avarosa's Arrow
-![](images/avaArrow.png)
+![](images/avaArrow.PNG)
 
 Ice Crystal
-![](images/iceCrystal.png)
+![](images/iceCrystal.PNG)
 

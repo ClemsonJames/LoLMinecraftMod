@@ -1,3 +1,7 @@
+// items
 item.ice_crystal.name=Ice Crystal
 item.avarosas_bow.name=Avarosa's Bow
 item.avarosas_arrow.name=Avarosa's Arrow
+
+// blocks
+tile.noxious_trap.name=Noxious Trap

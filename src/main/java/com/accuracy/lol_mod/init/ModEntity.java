@@ -9,6 +9,7 @@ import net.minecraftforge.fml.common.registry.EntityEntryBuilder;
 
 public class ModEntity
 {
+    // register entity ava arrow
     public static EntityEntry avaArrow = EntityEntryBuilder.create()
             .entity(EntityAvaArrow.class)
             .id(new ResourceLocation(Reference.MOD_ID, "avarosas_arrow"), 0)

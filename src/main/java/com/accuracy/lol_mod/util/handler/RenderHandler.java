@@ -11,6 +11,7 @@ public class RenderHandler
 {
     public static void registerEntityRenders()
     {
+        //render handler for ava arrow entity
         RenderingRegistry.registerEntityRenderingHandler(EntityAvaArrow.class, new IRenderFactory<EntityAvaArrow>()
         {
             @Override

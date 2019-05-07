@@ -3,6 +3,7 @@ package com.accuracy.lol_mod.items.ModArrow;
 import com.accuracy.lol_mod.Main;
 import com.accuracy.lol_mod.entities.EntityAvaArrow;
 import com.accuracy.lol_mod.init.ModItems;
+import com.accuracy.lol_mod.items.ItemBase;
 import com.accuracy.lol_mod.util.Model;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.entity.EntityLivingBase;

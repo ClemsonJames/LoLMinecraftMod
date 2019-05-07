@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    " R ",
+    "BPB",
+    " F "
+  ],
+
+  "key":
+  {
+    "R":
+    {
+      "item": "minecraft:red_mushroom"
+    },
+    "B":
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    "P":
+    {
+      "item": "minecraft:fish",
+      "data": 3
+    },
+    "F":
+    {
+      "item": "minecraft:fermented_spider_eye"
+    }
+  },
+
+  "result":
+  {
+    "item": "lolmod:noxious_trap",
+    "count": 3
+  }
+}

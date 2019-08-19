@@ -35,5 +35,6 @@ Noxious Trap
 ![](images/noxiousTrap.PNG)
 
 Smoke Bomb
+
 ![](images/smokeBomb.PNG)
 

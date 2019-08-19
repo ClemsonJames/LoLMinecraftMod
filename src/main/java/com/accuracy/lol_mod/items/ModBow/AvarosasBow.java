@@ -1,9 +1,8 @@
 package com.accuracy.lol_mod.items.ModBow;
 
 import com.accuracy.lol_mod.Main;
-import com.accuracy.lol_mod.entities.EntityAvaArrow;
 import com.accuracy.lol_mod.init.ModItems;
-import com.accuracy.lol_mod.items.ModArrow.AvaArrow;
+import com.accuracy.lol_mod.items.ModProj.AvaArrow;
 import com.accuracy.lol_mod.util.Model;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.enchantment.EnchantmentHelper;

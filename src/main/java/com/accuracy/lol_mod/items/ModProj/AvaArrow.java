@@ -1,27 +1,18 @@
-package com.accuracy.lol_mod.items.ModArrow;
+package com.accuracy.lol_mod.items.ModProj;
 
-import com.accuracy.lol_mod.Main;
 import com.accuracy.lol_mod.entities.EntityAvaArrow;
-import com.accuracy.lol_mod.init.ModItems;
 import com.accuracy.lol_mod.items.ItemBase;
-import com.accuracy.lol_mod.util.Model;
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.entity.EntityLivingBase;
 import net.minecraft.entity.projectile.EntityArrow;
-import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.world.World;
 
-public class AvaArrow extends Item implements Model
+public class AvaArrow extends ItemBase
 {
     public AvaArrow(String name)
     {
-        setUnlocalizedName(name);
-        setRegistryName(name);
+        super(name);
         maxStackSize = 64;
-        setCreativeTab(CreativeTabs.COMBAT);
-
-        ModItems.ITEMS.add(this);
     }
 
     // arrow entity
@@ -37,9 +28,4 @@ public class AvaArrow extends Item implements Model
         return enchant <= 0 ? false : this.getClass() == AvaArrow.class;
     }
 
-    @Override
-    public void registerModels()
-    {
-        Main.proxy.registerItemRenderer(this, 0, "inventory");
-    }
 }

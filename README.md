@@ -12,6 +12,9 @@ The main idea of this mod is to add champion weapons or significant things about
 * Noxious Trap
     * Teemo mushrooms; disappear after an entity walks on it and applies slowness 4, poison 4, and nausea 4.
 
+* Smoke Bomb
+    * Akail's smoke bomb; Create a temporary shroud that gives invisibility and speed while inside the shroud.
+
 
 ## Crafting Recipe
 
@@ -29,4 +32,7 @@ Ice Crystal
 
 Noxious Trap
 ![](images/noxiousTrap.PNG)
+
+Smoke Bomb
+![](images/smokeBomb.PNG)
 

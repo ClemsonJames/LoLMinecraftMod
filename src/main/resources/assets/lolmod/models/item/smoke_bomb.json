@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "lolmod:items/smoke_bomb"
+  }
+}

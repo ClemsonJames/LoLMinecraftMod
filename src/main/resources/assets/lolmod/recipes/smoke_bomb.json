@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    " G ",
+    "OSO",
+    " O "
+  ],
+
+  "key":
+  {
+    "G":
+    {
+      "item": "minecraft:gunpowder"
+    },
+    "O":
+    {
+      "item": "minecraft:obsidian"
+    },
+    "S":
+    {
+      "item": "minecraft:dye",
+      "data": 0
+    }
+  },
+
+  "result":
+  {
+    "item": "lolmod:smoke_bomb",
+    "count": 3
+  }
+}

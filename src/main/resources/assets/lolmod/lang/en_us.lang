@@ -2,6 +2,8 @@
 item.ice_crystal.name=Ice Crystal
 item.avarosas_bow.name=Avarosa's Bow
 item.avarosas_arrow.name=Avarosa's Arrow
+item.smoke_bomb.name=Smoke Bomb
 
 // blocks
 tile.noxious_trap.name=Noxious Trap
+tile.twilight_shroud.name=Twilight Shroud

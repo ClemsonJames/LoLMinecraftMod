@@ -62,13 +62,6 @@ public class RegistryHandler
             }
     }
 
-    // register mod entities
-    @SubscribeEvent
-    public static void registerEntities(RegistryEvent.Register<EntityEntry> event)
-    {
-        event.getRegistry().register(ModEntity.avaArrow);
-    }
-
     // pre init for main
     public static void preInitRegistries(FMLPreInitializationEvent event)
     {

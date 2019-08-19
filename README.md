@@ -31,6 +31,7 @@ Ice Crystal
 ![](images/iceCrystal.PNG)
 
 Noxious Trap
+
 ![](images/noxiousTrap.PNG)
 
 Smoke Bomb

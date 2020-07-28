@@ -1,0 +1,20 @@
+{
+  "textures": {
+    "view": "lolmod:blocks/rhasst_ability",
+    "side": "lolmod:blocks/transparent",
+    "particle": "#view"
+  },
+  "elements": [
+    {   "from": [ 0, 0, 0 ],
+      "to": [ 16, 1, 16 ],
+      "faces": {
+        "down":  { "texture": "#view"},
+        "up":    { "texture": "#view"},
+        "north": { "texture": "#side"},
+        "south": { "texture": "#side"},
+        "west":  { "texture": "#side"},
+        "east":  { "texture": "#side"}
+      }
+    }
+  ]
+}

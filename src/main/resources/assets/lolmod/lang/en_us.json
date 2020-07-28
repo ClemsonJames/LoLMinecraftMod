@@ -1,0 +1,10 @@
+{
+  "itemGroup.tutorialTab": "LoLMod",
+
+  "item.lolmod.darkin_soul": "Darkin Soul",
+  "item.lolmod.aatrox": "The Darkin Blade",
+  "item.lolmod.rhasst": "The Darkin Scythe",
+  "item.lolmod.varus": "The Darkin Bow",
+
+  "block.lolmod.rhasst_ability": "Rhasst Ability Block"
+}

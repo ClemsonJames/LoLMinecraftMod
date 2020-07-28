@@ -1,0 +1,6 @@
+{
+  "parent": "lolmod:item/varus",
+  "textures": {
+    "layer0": "lolmod:items/varus_pulling_0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:bow"
+  },
+  "addition": {
+    "item": "lolmod:darkin_soul"
+  },
+  "result": {
+    "item": "lolmod:varus"
+  }
+}

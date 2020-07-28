@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "edge=true,facing=north": { "model": "lolmod:block/rhasst_ability_edge", "y":  270},
+    "edge=true,facing=south": { "model": "lolmod:block/rhasst_ability_edge", "y":  90},
+    "edge=true,facing=west": { "model": "lolmod:block/rhasst_ability_edge", "y":  180},
+    "edge=true,facing=east": { "model": "lolmod:block/rhasst_ability_edge", "y":  360},
+    "edge=false,facing=north": { "model": "lolmod:block/rhasst_ability", "y":  270},
+    "edge=false,facing=south": { "model": "lolmod:block/rhasst_ability", "y":  90},
+    "edge=false,facing=west": { "model": "lolmod:block/rhasst_ability", "y":  180},
+    "edge=false,facing=east": { "model": "lolmod:block/rhasst_ability", "y":  360}
+  }
+}

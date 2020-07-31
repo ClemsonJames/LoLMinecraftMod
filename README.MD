@@ -8,7 +8,7 @@ The main idea of this mod is to add champion weapons or significant things about
 ### Basic Info
 Current Number of Items: 4 \
 Current Number of Blocks: 1* \
-Current Numver of Entities: 0
+Current Number of Entities: 0
  
 >\* Some blocks are not obtainable\
 >Check [wiki](https://github.com/ClemsonJames/LoLMinecraftMod/wiki) for more details
